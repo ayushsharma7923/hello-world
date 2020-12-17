@@ -1,2 +1,2 @@
 # hello-world
-Some modified content here
+child branch modifications
